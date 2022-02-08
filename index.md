@@ -1,7 +1,12 @@
+---
+title: XXX
+output: html_document
+---
+
 ## Macroecology Group {.tabset}
 
 ### HOME
-**Si-Chong Chen (陈思翀)**
+**Si-Chong Chen (陈思翀)**/
 Research Professor
 Wuhan Botanic Garden
 Chinese Academy of Sciences
@@ -41,6 +46,6 @@ Email: chensichong0528[at]gmail.com
 2. List
 
 <div style="text-align: centre">
-Copyright &copy; [Si-Chong Chen](mailto:chensichong0528@gmail.com) 2022 -- document.write(new Date().getFullYear());
+Copyright &copy; [Si-Chong Chen](mailto:chensichong0528XXXXXgmail.com) 2022 -- document.write(new Date().getFullYear());
 Created using [rmarkdown](https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html)
 </div>
