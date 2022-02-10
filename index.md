@@ -1,5 +1,3 @@
-## Macroecology Group {.tabset}
-
 <table order = "0">
   <tr>
     <td width = "75%">
