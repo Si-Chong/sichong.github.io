@@ -7,10 +7,10 @@
       <p><b>Chinese Academy of Sciences</b></p>
       <p><b>Wuhan, Hubei Province 430074, China</b></p>
       <p><b>Email: chensichong0528[at]gmail.com</b></p>
-     </td>
+    </td>
     <td width = "25%">
       <img src = "/zhengjianzhao.jpg" width = "100%">
-     </td>
+    </td>
   </tr>
 </table>
 
